@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+part2/leads.db
+part3/model.joblib
+part3/metrics.json
